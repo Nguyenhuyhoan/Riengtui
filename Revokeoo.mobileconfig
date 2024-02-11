@@ -8,8 +8,8 @@
 <dict>
 <key>ServerAddresses</key>
 <array>
-<string>2a10:50c0:c000::c75f:e7ea</string>
-<string>2a10:50c0:c000::1:c75f:e7ea</string>
+<string>2a10:50c0:c000::df12:1a15</string>
+<string>2a10:50c0:c000::1:df12:1a15</string>
 </array>
 <key>SupplementalMatchDomains</key>
 <array>
